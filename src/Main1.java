@@ -17,7 +17,7 @@ public class Main1 {
             }
             System.out.println(result);
         } else {
-            System.err.print("насвай");
+            System.err.print("X не входит в диапазон.");
         }
     }
 }
